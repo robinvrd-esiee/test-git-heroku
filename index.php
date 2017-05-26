@@ -1,4 +1,4 @@
 
-<?php echo 'hello indexphp its me aaaaaaa'; ?>
+<?php echo 'ceci est un test de déploiement inter-services.'; ?>
 
 
