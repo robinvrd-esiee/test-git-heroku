@@ -8,10 +8,12 @@
         <link rel="stylesheet" href="dist/bootstrap-theme.min.css">
     </head>
     <body>
-        <?php 
-        $a = 5;
-        echo 'ceci est un test de déploiement inter-services. Ceci est une variable $a = '.$a.'.'; 
-        ?>
+        <div class="container text-center">
+            <?php 
+            $a = 5;
+            echo '<br/><br/>Ceci est UN test de déploiement inter-services. <br/> <h1>Ceci est une variable $a = '.$a.'.</h1>'; 
+            ?>
+        </div>
     </body>
 </html>
 
